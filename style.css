@@ -1,0 +1,79 @@
+
+.navbar{
+    
+    background-attachment: fixed;
+    
+}
+.card-text{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: x-large;
+}
+.service{
+   
+    color: rgb(36, 50, 247);
+    font-weight: bolder;
+    outline: auto;
+    background-attachment: fixed;
+    margin-left: 7%;
+    margin-right:7%;
+    font-family: 'Ramaraja', serif;
+    text-align: center;
+}
+
+
+.h2{
+ 
+    text-align: center;
+    text-decoration: underline overline dotted;
+    font-family: 'Caveat', cursive;
+   
+}
+h2{
+text-align: center;
+
+
+}
+.a img{
+    height: 86vh;
+}
+
+.aboutus{
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.apara{
+    font-family: 'Playfair Display', serif;
+}
+
+
+.s{
+   
+   
+    background-attachment: fixed;
+    margin-left: 7%;
+    margin-right:7%;
+}
+a{
+    text-decoration: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+body{
+    background: linear-gradient(to top right, #ff66ff 24%, #00ffcc 88%);
+}
+.ass a:hover{
+    background-color: bisque;
+    color: aqua;
+}
